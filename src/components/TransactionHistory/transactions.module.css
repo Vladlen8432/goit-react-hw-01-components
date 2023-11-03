@@ -1,0 +1,26 @@
+.transactionHistory {
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.transactionHeadContainer {
+  background-color: #c2c2d6;
+}
+
+.transactionHead {
+  height: 70px;
+}
+
+.transactionHeadItem {
+  font-size: 24px;
+  width: 260px;
+}
+
+.transactionBodyItem {
+  text-align: center;
+}
+
+.transactionBodyContainer {
+  height: 70px;
+  background-color: #e0e0eb;
+}
