@@ -19,19 +19,12 @@
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-.circle {
+.status {
   width: 16px;
   height: 16px;
   border-radius: 50%;
   display: inline-block;
-}
-
-.online {
-  background-color: green;
-}
-
-.offline {
-  background-color: red;
+  background-color: transparent;
 }
 
 .avatar {
